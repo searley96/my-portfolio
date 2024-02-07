@@ -1,0 +1,30 @@
+.welcome {
+  padding: 50px;
+  background-color: bisque;
+}
+
+h1 {
+  text-align: center;
+  margin: 100px;
+  color: tomato;
+  font-size: 50px;
+}
+
+.social-icons-container {
+  display: flex;
+  justify-content: center;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-bottom: 35px;
+}
+
+.social-icons-container > * {
+  margin: 0 10px;
+}
+
+p {
+  text-align: center;
+  margin: 100px;
+  color: brown;
+  font-size: 25px;
+}

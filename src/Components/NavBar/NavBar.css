@@ -1,0 +1,26 @@
+.navbar-container {
+    display: flex;
+    padding: 10px;
+    justify-content: space-between; /* Distribute items on both ends */
+    align-items: center; /* Center align vertically */
+    background-color: blue;
+    padding: 20px;
+  }
+  
+  .about {
+    color: tomato;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .nav-links {
+    display: flex;
+  }
+  
+  .contact,
+  .code,
+  .ux {
+    color: tomato;
+    margin-left: 10px;
+    cursor: pointer;
+  }
